@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "bharathservicebus_SERVICEBUS": "Endpoint=sb://bharath-servicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=PBFq7VH/5pt0A7kJJI5U3LTSb5QasnA4yPmhmsrHGJQ="
+  }
+}
